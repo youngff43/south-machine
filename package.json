@@ -1,7 +1,7 @@
 {
   "name": "south-machine",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Project Links and Screenshots",
   "main": "index.js",
   "directories": {
     "lib": "lib"
