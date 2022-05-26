@@ -3,7 +3,8 @@
 ## Project Links and Screenshots 
 
 ![Picture of the Web Page](/dist/css/images/web-page.png "Picture of the Web Page")
-![Picture of the Terminal](/dist/css/images/terminal.png"Picture of the Terminal")
+![Picture of the Terminal](/dist/css/images/terminal.png "Picture of the Terminal")
+![Picture of the Tests](/dist/css/images/terminaltests.png "Picture of the Tests")
 ![Link to Application Functionality](https://drive.google.com/file/d/1U8XXBdUYM1qUpC_t3EbDDtdd2x_etmpT/view "Link to Application Functionality")
 
 ## Project Description 
