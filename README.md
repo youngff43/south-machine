@@ -6,8 +6,7 @@
 ![Picture of the Terminal](/dist/css/images/terminal.png "Picture of the Terminal")
 ![Picture of the Tests](/dist/css/images/terminaltests.png "Picture of the Tests")
 
-
-![Video to Application] (https://user-images.githubusercontent.com/99932948/170575175-0d2ec50d-76a8-47dc-93e0-141d356ab0d1.mp4)
+https://user-images.githubusercontent.com/99932948/170575175-0d2ec50d-76a8-47dc-93e0-141d356ab0d1.mp4
 
 
 ## Project Description 
